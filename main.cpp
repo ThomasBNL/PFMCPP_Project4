@@ -4,6 +4,8 @@
  Returning Values tasks 
 
  Create a branch named Part1
+
+ Purpose:  This project will take you through the process of writing a class that wraps a numeric type, beginning with writing simple member functions and ending with a fully templated class with lots of functionality. 
  
  1) write 3 UDTs named FloatType, DoubleType, IntType.
  
